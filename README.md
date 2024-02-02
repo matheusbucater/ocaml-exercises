@@ -1,1 +1,1 @@
-# ocaml_exercises
+# ocaml-exercises
